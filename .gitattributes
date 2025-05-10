@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
+# Set default behavior to automatically normalize line endings
 * text=auto
+
+# Explicitly set line endings and encoding for Python files
+*.py text eol=lf
+
+# Treat Markdown files as UTF-8 text
+*.md text
+
+# Make sure .gitattributes itself is treated as text
+.gitattributes text
