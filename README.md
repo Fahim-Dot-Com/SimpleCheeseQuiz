@@ -17,7 +17,8 @@ A fun little quiz to test your cheese knowledge. Warning: puns ahead!
 - Adding fun and personality to code
 
 ## 🔧 How to Run
-
+PyCharm, Spyder, and Thonny are among these they can function well for this code.
 ```bash
 python cheese_quiz.py
 https://github.com/Fahim-Dot-Com/SimpleCheeseQuiz
+```
